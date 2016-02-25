@@ -1,0 +1,18 @@
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+h1 {
+	color: black;
+	font-family: fantasy;
+}
+
+.cup {
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	border: 1px solid #000;
+	margin: 5px;
+	display: inline-block;
+	border-radius: 50%;
+}
